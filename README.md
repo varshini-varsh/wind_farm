@@ -1,17 +1,13 @@
-<h1 align="center"> WindFarm-Layout-Optimization</h1> <br>
+<h1 align="center"> WindFarm App</h1> <br>
 
 ## Introduction:
-In order to maximize the AEP(Annual Energy Production) from the wind farms, this web app is created by team Energy Optimizers in Hackfest'21 which provides a robust interface to the users. The main need for optimization arises due to the combined influence of arranged wind turbines on the wind speed distribution across the limited area of farm known as wake effect.
+In order to maximize the AEP(Annual Energy Production) from the wind farms, this web app provides a robust interface to the users. The main need for optimization arises due to the combined influence of arranged wind turbines on the wind speed distribution across the limited area of farm known as wake effect.
 
 ## Quick Demonstration:
 
   * __Sidebar:__ The user has to upload the power curve data and wind data in the sidebar.
   * __Visualizer:__</h5> The Visualizer section provides plots of power curve data and wind rose diagram
   * __Optimizer:__</h5> The optimizer section allows a user to select multiple optimization algorithms and compare the annual energy production as well as the plot of optimal coordinates.
-  
-  
-__Link to Video:__https://www.youtube.com/watch?v=XkZEeHRJS-Y
-
 
 ## Instructions to run locally:
 
@@ -26,36 +22,22 @@ __Link to Video:__https://www.youtube.com/watch?v=XkZEeHRJS-Y
 
 
 ## Snippets of the app:
-Few screenshots of the application showing the features and output of the app are shown below.
-
 <h4>Home page :</h4>
-<p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/9ba29a94d2c4843548bf4616d60e9e1f6ed34dd8/home.jpeg" height="400px"/>
-</p>
+Few screenshots of the application showing the features and output of the app are shown below.![home](https://user-images.githubusercontent.com/71514075/180634812-16eea8ca-0aad-4096-8b84-41d59c0f2f41.jpeg)
 
 <h4>Data Visualizer :</h4>
-<p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/9ba29a94d2c4843548bf4616d60e9e1f6ed34dd8/vis1.jpeg" height="400px"/>
-</p>
+![vis1](https://user-images.githubusercontent.com/71514075/180634842-7118e2a7-b147-4cd1-9f15-f70a1aa9497f.jpeg)
+
 
 <h4>Wind Rose Diagram :</h4>
-<p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/9ba29a94d2c4843548bf4616d60e9e1f6ed34dd8/vis2.jpeg" height="400px"/>
-</p>
+![vis2](https://user-images.githubusercontent.com/71514075/180634844-aa797f43-81c0-442a-a4f4-a1da9ccf83c3.jpeg)
+
 
 <h4>Output :</h4>
-<p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt1.jpeg" height="400px"/>
-</p>
+![opt1](https://user-images.githubusercontent.com/71514075/180634853-3eeb4d1d-5121-4665-b500-b36e97ff3c82.jpeg)
 
-<p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt2.jpeg" height="400px"/>
-</p>
+![opt3](https://user-images.githubusercontent.com/71514075/180634866-eef86b0b-6876-44e5-a070-12708cd099be.jpeg)
+![opt4](https://user-images.githubusercontent.com/71514075/180634873-0921a6d7-c53e-46c8-90f2-7dc9253c1174.jpeg)
+![opt2](https://user-images.githubusercontent.com/71514075/180634875-ee07eb96-4aaf-46ab-a2b4-506625100188.jpeg)
 
-<p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt3.jpeg" height="400px"/>
-</p>
 
-<p align="center">
-<img src = "https://github.com/Rajvardhan7/WindFarm-Layout-Optimization/blob/b391cc634d284e08a941e5387f8695487017b10d/opt4.jpeg" height="400px"/>
-</p>
