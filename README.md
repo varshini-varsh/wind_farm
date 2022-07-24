@@ -14,7 +14,7 @@ In order to maximize the AEP(Annual Energy Production) from the wind farms, this
   1. Open terminal.
   2. Create a directory using ```mkdir Wind Farm App```
   3. move into the directory created using ```cd Wind Farm App```
-  4. Use command ```https://github.com/Rajvardhan7/WindFarm-Layout-Optimization.git```   to clone the repository.
+  4. Use command ```https://github.com/varshini-varsh/wind_farm.git```   to clone the repository.
   5. Install all required modules in your environment using ```pip install -r requirements.txt```
   6. Check if streamlit is properly installed or not using command ```streamlit hello.```
   7. enter into App folder using ```cd App```
